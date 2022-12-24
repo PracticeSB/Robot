@@ -1,1 +1,1 @@
-badsafsdfadfasfsdf
+#This is practice about dynamixel motor
